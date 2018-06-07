@@ -1,0 +1,30 @@
+version,2918472,593
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_common
+ignore_missing_shipped,core_common
+ignore_missing_shipped,cp_common
+ignore_missing_shipped,cp_common
+ignore_missing_shipped,cp_patch
+ignore_missing_shipped,cp_patch
+texturecombo,cp_mod
+assetlist,cp_mod
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1504416379,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\neptunia\zone_source\loc\cp_mod.zone,1527384371,00d810cd,74ebef53,26dc81bd,d205debc
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\french\assetlist\core_pre_gfx.csv,1504417922,4f38c8d2,54dbe0ad,a26fe6dd,7ce6fe27
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\french\assetlist\core_patch.csv,1520687773,9ed99688,0848420f,a94e8a4f,6a3cab0a
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\french\assetlist\core_gfx.csv,1504417960,4cd6243d,831296e2,f2d7c4d8,2e2c9159
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\french\assetlist\core_post_gfx.csv,1504417960,6421ae92,8670936d,28c8f4d3,3c4bb4af
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\french\assetlist\core_ui.csv,1504417960,ce3b1916,c358e78d,81b61779,aaf68da4
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\french\assetlist\core_common.csv,1504417960,1d30278c,b8778087,b65b8ce5,1d066b44
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\french\assetlist\cp_common.csv,1504417960,87676c08,78c8548f,3e763d6b,c555f67e
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\french\assetlist\cp_patch.csv,1504417960,85cbec15,508b9569,3f7ad166,c4149f3a
+errorcount,0

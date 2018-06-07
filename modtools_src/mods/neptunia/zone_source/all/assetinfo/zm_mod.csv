@@ -1,0 +1,5 @@
+index,type,name,resident,streamed,parentStack
+1,string,,0,0,||assetlist
+2,rawfile,dummy.cfg,17,0,|zone_source/zm_mod.zone|csv
+3,keyvaluepairs,zm_mod,986,0,||assetlist
+4,assetlist,,32,0,

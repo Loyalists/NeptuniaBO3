@@ -1,0 +1,30 @@
+version,2918472,593
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_common
+ignore_missing_shipped,core_common
+ignore_missing_shipped,mp_common
+ignore_missing_shipped,mp_common
+ignore_missing_shipped,mp_patch
+ignore_missing_shipped,mp_patch
+texturecombo,mp_mod
+assetlist,mp_mod
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1504416379,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\neptunia\zone_source\loc\mp_mod.zone,1527384352,38bffbb4,b9012434,7a719e0d,efdbb375
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\traditionalchinese\assetlist\core_pre_gfx.csv,1504417922,4f38c8d2,54dbe0ad,a26fe6dd,7ce6fe27
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\traditionalchinese\assetlist\core_patch.csv,1520687773,38d4c92a,0186498f,35efb776,59863d59
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\traditionalchinese\assetlist\core_gfx.csv,1504417960,4cd6243d,831296e2,f2d7c4d8,2e2c9159
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\traditionalchinese\assetlist\core_post_gfx.csv,1504417960,84cba858,ca582e11,0ecc058e,9dc718da
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\traditionalchinese\assetlist\core_ui.csv,1504417922,01204c23,9c4fe4b0,62b426bd,ba245684
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\traditionalchinese\assetlist\core_common.csv,1504417960,1d30278c,b8778087,b65b8ce5,1d066b44
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\traditionalchinese\assetlist\mp_common.csv,1504417963,5a20d4b2,6c6ecac0,175a01bd,7bec137a
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\traditionalchinese\assetlist\mp_patch.csv,1504417921,44577e5e,4d276489,bacbdd7c,2cfd716f
+errorcount,0

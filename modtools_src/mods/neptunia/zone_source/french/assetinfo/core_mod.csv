@@ -1,0 +1,4 @@
+index,type,name,resident,streamed,parentStack
+1,string,,0,0,||assetlist
+2,keyvaluepairs,fr_core_mod,977,0,||assetlist
+3,assetlist,,16,0,

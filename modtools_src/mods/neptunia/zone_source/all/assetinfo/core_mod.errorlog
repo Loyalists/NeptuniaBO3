@@ -1,0 +1,4 @@
+return 1000000
+^1ERROR: xmodel 'nepnep' is missing
+  xmodel:nepnep
+    csv:zone_source/core_mod.zone
