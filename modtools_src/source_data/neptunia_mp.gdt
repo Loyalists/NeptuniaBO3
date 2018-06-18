@@ -1727,6 +1727,51 @@
 		"usage_zombie_body" "0"
 		"usage_zombie_world_prop" "0"
 	}
+	"i_uni_acc00_tex_g" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "blender_test\\uni\\images\\acc00_spc_tex.png"
+		"clampU" "0"
+		"clampV" "0"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" ""
+		"compressionMethod" "compressed"
+		"coreSemantic" "Linear1ch"
+		"doNotResize" "0"
+		"forceStreaming" "0"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "0"
+		"noPicMip" "0"
+		"premulAlpha" "0"
+		"semantic" "glossMap"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
 	"i_uni_body00_tex_c" ( "image.gdf" )
 	{
 		"arabicUnsafe" "0"
@@ -6605,7 +6650,7 @@
 	"i_uni_acc00_tex_n" ( "image.gdf" )
 	{
 		"arabicUnsafe" "0"
-		"baseImage" "blender_test\\uni\\images\\body00_normal_tex.png"
+		"baseImage" "blender_test\\uni\\images\\acc00_normal_tex.png"
 		"clampU" "0"
 		"clampV" "0"
 		"colorSRGB" "0"
@@ -6864,7 +6909,7 @@
 		"colorWriteRed" "Enable"
 		"columnCount" "1"
 		"converterOnlyNormal" "0"
-		"cosinePowerMap" ""
+		"cosinePowerMap" "i_uni_acc00_tex_g"
 		"customString" ""
 		"customTemplate" ""
 		"depthMultiplier" "3"
@@ -7049,15 +7094,15 @@
 		"gFoamUVScale2" "3142"
 		"gFoamUVScale3" "5497"
 		"gHorizonDistance" "10000"
-		"glossRangeMax" "4.0"
+		"glossRangeMax" "10.0"
 		"glossRangeMax1" "17"
 		"glossRangeMax2" "17"
 		"glossRangeMax3" "17"
-		"glossRangeMin" "0.0"
+		"glossRangeMin" "3.0"
 		"glossRangeMin1" "0"
 		"glossRangeMin2" "0"
 		"glossRangeMin3" "0"
-		"glossSurfaceType" "cloth"
+		"glossSurfaceType" "<custom>"
 		"gNormalScale00" "1"
 		"gNormalScale01" "1"
 		"gNormalScale02" "1"
@@ -7997,9 +8042,6 @@
 	"c_t7_mp_technomancer_mpc_head1_skin1" [ "c_t7_mp_technomancer_mpc_head1" ]
 	{
 	}
-	"c_t7_mp_technomancer_mpc_fb1_skin1" [ "c_t7_mp_technomancer_mpc_fb1" ]
-	{
-	}
 	"c_t7_mp_technomancer_mpc_body1_skin2" [ "c_t7_mp_technomancer_mpc_body1" ]
 	{
 	}
@@ -8343,6 +8385,9 @@
 	{
 	}
 	"c_t7_mp_technomancer_mpc_body3_skin1" [ "c_t7_mp_technomancer_mpc_body3" ]
+	{
+	}
+	"c_t7_mp_technomancer_mpc_fb1_skin1" [ "c_t7_mp_technomancer_mpc_fb1" ]
 	{
 	}
 }

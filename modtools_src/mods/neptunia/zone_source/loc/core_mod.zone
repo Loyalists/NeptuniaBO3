@@ -133,6 +133,7 @@ ignore_missing_shipped,core_common
 >level.xpak_read,base_patch_tu26
 >level.xpak_read,base_patch_tu27
 >level.xpak_read,base_patch_tu28
+>level.xpak_read,base_patch_tu29
 >level.xpak_read,base_patch
 >level.xpak_read,base_patch_tu3
 >level.xpak_read,base_patch_tu4
@@ -160,3 +161,4 @@ ignore_missing_shipped,core_common
 >level.xpak_read,base_patch_tu26
 >level.xpak_read,base_patch_tu27
 >level.xpak_read,base_patch_tu28
+>level.xpak_read,base_patch_tu29

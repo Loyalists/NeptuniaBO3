@@ -3,12 +3,12 @@ physpreset,276,0
 physconstraints,128,1
 destructibledef,128,0
 xanim,25000,0
-xmodel,10240,1287
+xmodel,10240,1364
 xmodelmesh,34816,79
 material,20480,64
 computeshaderset,256,0
 techset,1024,6
-image,46080,92
+image,49152,93
 sound,32,0
 sound_patch,16,0
 col_map,2,0
@@ -31,7 +31,7 @@ playersoundstable,16,0
 playerfxtable,16,0
 sharedweaponsounds,64,0
 attachment,128,0
-attachmentunique,2048,0
+attachmentunique,2148,0
 weaponcamo,512,0
 customizationtable,8,0
 customizationtable_feimages,8,0

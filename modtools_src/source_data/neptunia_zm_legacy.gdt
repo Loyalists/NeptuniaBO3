@@ -677,7 +677,7 @@
 		"DetailShadows" "0"
 		"doNotUse" "0"
 		"dropLOD" "Auto"
-		"filename" "..\\blender_test\\neptune\\xmodel_neptune_viewhands.XMODEL_BIN"
+		"filename" "..\\blender_test\\noire\\xmodel_noire_viewhands.XMODEL_BIN"
 		"forceLod4Rigid" "0"
 		"forceLod5Rigid" "0"
 		"forceLod6Rigid" "0"
@@ -3932,7 +3932,7 @@
 		"DetailShadows" "0"
 		"doNotUse" "0"
 		"dropLOD" "Auto"
-		"filename" "..\\blender_test\\neptune\\xmodel_neptune_viewlegs.XMODEL_BIN"
+		"filename" "..\\blender_test\\vert\\xmodel_vert_viewlegs.XMODEL_BIN"
 		"forceLod4Rigid" "0"
 		"forceLod5Rigid" "0"
 		"forceLod6Rigid" "0"
@@ -4333,5 +4333,35 @@
 		"usage_weapon" "0"
 		"usage_zombie_body" "0"
 		"usage_zombie_world_prop" "0"
+	}
+	"c_zom_dlc_dempsey_cin_fb" [ "c_zom_der_dempsey_cin_fb" ]
+	{
+	}
+	"c_zom_dlc_nikolai_cin_fb" [ "c_zom_der_nikolai_cin_fb" ]
+	{
+	}
+	"c_zom_dlc_richtofen_cin_fb" [ "c_zom_der_richtofen_cin_fb" ]
+	{
+	}
+	"c_zom_dlc_takeo_cin_fb" [ "c_zom_der_takeo_cin_fb" ]
+	{
+	}
+	"c_zom_dlc3_takeo_cin_fb" [ "c_zom_der_takeo_cin_fb" ]
+	{
+	}
+	"c_zom_dlc3_dempsey_cin_fb" [ "c_zom_der_dempsey_cin_fb" ]
+	{
+	}
+	"c_zom_dlc3_nikolai_cin_fb" [ "c_zom_der_nikolai_cin_fb" ]
+	{
+	}
+	"c_zom_dlc3_richtofen_cin_fb" [ "c_zom_der_richtofen_cin_fb" ]
+	{
+	}
+	"c_zom_dlc_waw_nikolai_fb" [ "c_zom_der_nikolai_cin_fb" ]
+	{
+	}
+	"c_zom_dlc_waw_takeo_nohat_fb" [ "c_zom_der_takeo_cin_fb" ]
+	{
 	}
 }

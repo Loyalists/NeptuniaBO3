@@ -8,7 +8,7 @@ xmodelmesh,34816,0
 material,20480,0
 computeshaderset,256,0
 techset,1024,0
-image,46080,0
+image,49152,0
 sound,32,0
 sound_patch,16,0
 col_map,2,0
@@ -31,7 +31,7 @@ playersoundstable,16,0
 playerfxtable,16,0
 sharedweaponsounds,64,0
 attachment,128,0
-attachmentunique,2048,0
+attachmentunique,2148,0
 weaponcamo,512,0
 customizationtable,8,0
 customizationtable_feimages,8,0
