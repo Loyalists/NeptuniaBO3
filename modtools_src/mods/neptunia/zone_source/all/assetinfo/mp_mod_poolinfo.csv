@@ -3,12 +3,12 @@ physpreset,276,0
 physconstraints,128,0
 destructibledef,128,0
 xanim,25000,0
-xmodel,10240,0
-xmodelmesh,34816,0
-material,20480,0
+xmodel,10240,505
+xmodelmesh,34816,13
+material,20480,16
 computeshaderset,256,0
-techset,1024,0
-image,49152,0
+techset,1024,3
+image,49152,29
 sound,32,0
 sound_patch,16,0
 col_map,2,0
@@ -84,7 +84,7 @@ sanim,1024,0
 lightdescription,500,0
 shellshock,64,0
 xcam,512,0
-bgcache,32,0
+bgcache,32,1
 texturecombo,16,0
 flametable,16,0
 bitfield,52,0

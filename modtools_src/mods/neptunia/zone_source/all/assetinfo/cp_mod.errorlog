@@ -1,0 +1,7 @@
+return 2000
+^33 warnings encountered while processing xmodel 'xmodel_nepgear_g_larmoff'. Log can be found here: D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\\xmesh\v6\xmodel_nepgear_g_larmoff_f0_s1.000000_geo_TH7U5CRKZ6ZZAUWIPXX6NPQAQI.log
+  xmodel:c_nrc_assault_prologue_viewbody_g_larmoff
+    csv:zone_source/cp_mod.zone
+^33 warnings encountered while processing xmodel 'xmodel_nepgear_g_barmsoff'. Log can be found here: D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\\xmesh\v6\xmodel_nepgear_g_barmsoff_f0_s1.000000_geo_6T6FXV3AHMPQ7S65Z5KM4UGDOB.log
+  xmodel:c_nrc_assault_prologue_viewbody_g_barmsoff
+    csv:zone_source/cp_mod.zone

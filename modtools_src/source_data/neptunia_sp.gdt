@@ -1975,6 +1975,7 @@
 	}
 	"c_hro_hendricks_undercover_body" [ "c_hro_hendricks_body" ]
 	{
+		"filename" "..\\blender_test\\neptune\\paladin_uniform\\xmodel_neptune_paladin_uniform_body_sp.XMODEL_BIN"
 	}
 	"c_hro_hendricks_base_fb" [ "c_hro_hendricks_fb" ]
 	{
