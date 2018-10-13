@@ -924,3 +924,16 @@ xmodel,c_t7_zm_dlchd_takeo_waw_viewlegs
 
 //xanim,pb_cac_cp_lobby_idle
 //xanim,pb_cac_cp_lobby_idle_female
+xanim,pb_cac_startmenu_idle
+//xanim,o_cac_cp_lobby_pistol
+//xanim,o_cac_startmenu_idle_l
+//xanim,o_cac_startmenu_idle_r
+
+image,uie_t7_zm_hud_score_char1
+image,uie_t7_zm_hud_score_char2
+image,uie_t7_zm_hud_score_char3
+image,uie_t7_zm_hud_score_char4
+image,uie_t7_zm_hud_score_char5
+image,uie_t7_zm_hud_score_char6
+image,uie_t7_zm_hud_score_char7
+image,uie_t7_zm_hud_score_char8

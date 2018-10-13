@@ -2,13 +2,13 @@ type,limit,total
 physpreset,276,0
 physconstraints,128,0
 destructibledef,128,0
-xanim,25000,0
+xanim,25000,1
 xmodel,10240,838
-xmodelmesh,34816,83
-material,20480,76
+xmodelmesh,34816,85
+material,20480,79
 computeshaderset,256,0
 techset,1024,6
-image,49152,113
+image,49152,124
 sound,32,0
 sound_patch,16,0
 col_map,2,0

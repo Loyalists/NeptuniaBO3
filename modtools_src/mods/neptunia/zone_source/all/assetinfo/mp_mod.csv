@@ -567,6 +567,6 @@ index,type,name,resident,streamed,parentStack
 566,xmodel,c_t7_mp_battery_viewarms3_skin13,3648,0,|zone_source/mp_mod.zone|csv
 567,xmodel,c_t7_mp_battery_viewarms3_skin14,3648,0,|zone_source/mp_mod.zone|csv
 568,xmodel,c_t7_mp_battery_viewarms3_skin15,3648,0,|zone_source/mp_mod.zone|csv
-569,keyvaluepairs,mp_mod,2087,0,||assetlist
-570,bgcache,mp_mod,66661,0,||assetlist
+569,keyvaluepairs,mp_mod,2153,0,||assetlist
+570,bgcache,mp_mod,66663,0,||assetlist
 571,assetlist,,9109,0,

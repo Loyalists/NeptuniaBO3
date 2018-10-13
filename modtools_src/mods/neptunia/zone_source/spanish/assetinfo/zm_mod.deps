@@ -1,4 +1,4 @@
-version,2951413,593
+version,3015543,593
 ignore_missing_shipped,core_pre_gfx
 ignore_missing_shipped,core_pre_gfx
 ignore_missing_shipped,core_patch
@@ -18,7 +18,7 @@ ignore_missing_shipped,zm_patch
 texturecombo,zm_mod
 assetlist,zm_mod
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1504416379,
-	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\neptunia\zone_source\loc\zm_mod.zone,1529154700,14f866af,21064049,f4e2ecb1,fafb0b45
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\neptunia\zone_source\loc\zm_mod.zone,1539451460,094cafab,74c7a743,52241ccd,2a080d73
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\spanish\assetlist\core_pre_gfx.csv,1504417922,4f38c8d2,54dbe0ad,a26fe6dd,7ce6fe27
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\spanish\assetlist\core_patch.csv,1520687773,9ed99688,0848420f,a94e8a4f,6a3cab0a
 	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\spanish\assetlist\core_gfx.csv,1504417960,4cd6243d,831296e2,f2d7c4d8,2e2c9159

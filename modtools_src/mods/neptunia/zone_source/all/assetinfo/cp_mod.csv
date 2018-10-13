@@ -118,6 +118,6 @@ index,type,name,resident,streamed,parentStack
 117,xmodel,c_hro_player_male_ramses_viewhands,3912,0,|zone_source/cp_mod.zone|csv
 118,xmodel,c_hro_player_male_undercover_viewhands,3912,0,|zone_source/cp_mod.zone|csv
 119,xmodel,c_nrc_assault_prologue_viewarms,3904,0,|zone_source/cp_mod.zone|csv
-120,keyvaluepairs,cp_mod,2087,0,||assetlist
-121,bgcache,cp_mod,12409,0,||assetlist
+120,keyvaluepairs,cp_mod,2153,0,||assetlist
+121,bgcache,cp_mod,12411,0,||assetlist
 122,assetlist,,1923,0,
